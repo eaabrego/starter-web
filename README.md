@@ -4,4 +4,6 @@
 
 ##Purse
 
+##modooficicaciones adicionales al archivo readme
+
 ##Como confugurar un contribuidor
