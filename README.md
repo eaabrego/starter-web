@@ -1,7 +1,7 @@
-# Starter Web Repo
+#Proyecto wed
 
-This repository is for showing how Git and GitHub work
+##Introduccion
 
-## Purpose
+##Purse
 
-Sample website with plenty of files for demos
+##Como confugurar un contribuidor
